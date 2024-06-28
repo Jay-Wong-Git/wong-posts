@@ -5,8 +5,8 @@ dependencies:
     specifier: ^11.0.0
     version: registry.npmmirror.com/better-sqlite3@11.0.0
   cloudinary:
-    specifier: ^2.0.2
-    version: registry.npmmirror.com/cloudinary@2.0.2
+    specifier: ^2.2.0
+    version: registry.npmmirror.com/cloudinary@2.2.0
   next:
     specifier: 14.1.0
     version: registry.npmmirror.com/next@14.1.0(react-dom@18.3.1)(react@18.3.1)
@@ -206,10 +206,10 @@ packages:
     version: 0.0.1
     dev: false
 
-  registry.npmmirror.com/cloudinary@2.0.2:
-    resolution: {integrity: sha512-PQOaoM5W0jSrI1EIcnKAHenT3IMCCTbLkSWlXkXzQlkLBxsJIerinZVWebQqqpwz4etdhvlkfaXmsE9yhYc0Qw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/cloudinary/-/cloudinary-2.0.2.tgz}
+  registry.npmmirror.com/cloudinary@2.2.0:
+    resolution: {integrity: sha512-akbLTZcNegGSkl07Frnt9fyiK9KZ2zPS+a+j7uLrjNYxVhDpDdIBz9G6snPCYqgk+WLVMRPfXTObalLr5L6g0Q==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/cloudinary/-/cloudinary-2.2.0.tgz}
     name: cloudinary
-    version: 2.0.2
+    version: 2.2.0
     engines: {node: '>=9'}
     dependencies:
       lodash: registry.npmmirror.com/lodash@4.17.21
